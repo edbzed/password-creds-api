@@ -2,7 +2,7 @@
 
 [![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](LICENSE)  [![React](https://img.shields.io/badge/react-18.3.1-blue.svg)](https://reactjs.org/)  [![TypeScript](https://img.shields.io/badge/typescript-5.5.3-blue.svg)](https://www.typescriptlang.org/)  [![Vite](https://img.shields.io/badge/vite-5.4.2-blue.svg)](https://vitejs.dev/)  [![Tailwind CSS](https://img.shields.io/badge/tailwindcss-3.4.1-blue.svg)](https://tailwindcss.com/)  [![PRs](https://img.shields.io/badge/PRs-not%20accepting-red.svg)](CONTRIBUTING.md)
 
-A modern, production-ready demonstration of the Browser's Credential Management API with React and TypeScript. This application showcases secure credential storage and management in web browsers with a beautiful, responsive UI.
+This application showcases secure credential storage and management in web browsers.
 
 ## Features
 
